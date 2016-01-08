@@ -1,0 +1,17 @@
+
+body{
+   color: blue; 
+   background-color: #FFCC66;
+   background-image: url("img/lab.png");
+   background-size: 40% 37%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: bottom;
+}
+h1 {
+   font-style: italic;
+   font-size: 16pt;
+   font-family: arial, sans-serif;
+}
+
+
